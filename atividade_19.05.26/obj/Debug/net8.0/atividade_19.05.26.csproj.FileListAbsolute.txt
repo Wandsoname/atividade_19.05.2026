@@ -1,0 +1,14 @@
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\bin\Debug\net8.0\atividade_19.05.26.exe
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\bin\Debug\net8.0\atividade_19.05.26.deps.json
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\bin\Debug\net8.0\atividade_19.05.26.runtimeconfig.json
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\bin\Debug\net8.0\atividade_19.05.26.dll
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\bin\Debug\net8.0\atividade_19.05.26.pdb
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\atividade_19.05.26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\atividade_19.05.26.AssemblyInfoInputs.cache
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\atividade_19.05.26.AssemblyInfo.cs
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\atividade_19.05.26.csproj.CoreCompileInputs.cache
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\atividade_19.05.26.dll
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\refint\atividade_19.05.26.dll
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\atividade_19.05.26.pdb
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\atividade_19.05.26.genruntimeconfig.cache
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\ref\atividade_19.05.26.dll
