@@ -54,10 +54,10 @@ while (opcao != 5)
             string select2 = opcao == 2 ? "Segue Usuarios cadastrados" : "Erro";
             Console.WriteLine(select2);
             Console.WriteLine(" ");
-            Console.WriteLine(nomes[0]);
-            Console.WriteLine(nomes[1]);
-            Console.WriteLine(nomes[3]);
-            Console.WriteLine(nomes[4]);
+            for (int i = 0; i < nomes.Length; i++)
+            {
+             Console.WriteLine(nomes[i]);
+            }
             Console.WriteLine(" ");
             Console.WriteLine("1 - Cadastrar usuário");
             Console.WriteLine("2 - Listar usuários");
