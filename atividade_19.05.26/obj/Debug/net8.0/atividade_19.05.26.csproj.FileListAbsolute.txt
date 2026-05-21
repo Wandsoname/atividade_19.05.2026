@@ -12,3 +12,4 @@ C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug
 C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\atividade_19.05.26.pdb
 C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\atividade_19.05.26.genruntimeconfig.cache
 C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\ref\atividade_19.05.26.dll
+C:\Users\09896869499\Documents\ATIVIDADE_19.05.2026\atividade_19.05.26\obj\Debug\net8.0\atividade_19.05.26.sourcelink.json
