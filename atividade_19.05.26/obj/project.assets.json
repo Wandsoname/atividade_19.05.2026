@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\09896869499\\.nuget\\packages\\": {}
+    "C:\\Users\\Wandson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\09896869499\\Documents\\ATIVIDADE_19.05.2026\\atividade_19.05.26\\atividade_19.05.26.csproj",
+      "projectUniqueName": "C:\\Users\\Wandson\\Documents\\atividade_19.05.2026\\atividade_19.05.26\\atividade_19.05.26.csproj",
       "projectName": "atividade_19.05.26",
-      "projectPath": "C:\\Users\\09896869499\\Documents\\ATIVIDADE_19.05.2026\\atividade_19.05.26\\atividade_19.05.26.csproj",
-      "packagesPath": "C:\\Users\\09896869499\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\09896869499\\Documents\\ATIVIDADE_19.05.2026\\atividade_19.05.26\\obj\\",
+      "projectPath": "C:\\Users\\Wandson\\Documents\\atividade_19.05.2026\\atividade_19.05.26\\atividade_19.05.26.csproj",
+      "packagesPath": "C:\\Users\\Wandson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wandson\\Documents\\atividade_19.05.2026\\atividade_19.05.26\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\09896869499\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Wandson\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
